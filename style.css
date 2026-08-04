@@ -3,9 +3,17 @@
 }
 
 .orange {
-  
+  color: orange;
 }
 
 .green {
   color: green;
+}
+
+.yellow {
+  color: yellow;
+}
+
+.blue {
+  color: blue;
 }
