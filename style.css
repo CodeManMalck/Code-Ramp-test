@@ -3,6 +3,37 @@
 }
 
 .orange {
-
+  color: orange;
 }
 
+.yellow {
+  color: yellow;
+}
+
+.blue {
+  color: blue;
+}
+
+.green {
+  color: green;
+}
+
+/* lightblue & purple classes are for Muni specifically */
+
+.lightblue {
+  color: lightblue;
+}
+
+.purple {
+  color: purple;
+}
+
+/* the .bart and .muni classes I added just so i can color the header for both lists. */
+
+.bart {
+  color: darkblue;
+}
+
+.muni {
+  color: darkred;
+}
